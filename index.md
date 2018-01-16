@@ -124,19 +124,23 @@ sequencity.checkBookAvailability(identifier, function(exists) {
 ## Sites utilisateurs du plugin
 
 * [7 de table](https://www.7detable.com/article/bd/les-fondus-de-la-cuisine-devorer-son-frigo-pas-forcement-une-bonne-idee/80)
+* [ActuaBD](http://www.actuabd.com/Jamais-Par-Bruno-Duhamel-Editions-Bamboo)
 * [Actualitté](https://www.actualitte.com/article/bande-dessinee/a-boire-et-a-manger-du-pain-sur-la-planche-tome-3-guillaume-long/61741)
 * [À voir à lire](http://www.avoir-alire.com/bagdad-inc-la-chronique-bd)
+* [Bade dessinée info](https://www.bandedessinee.info/Rose-Rose-1-3-1-bd)
 * [BDencre](http://www.bdencre.com/2015/11/18230_detectives-t4-hanna-labourot-lou-delcourt-1495e/)
+* [Bodoi](http://www.bodoi.info/les-chevaliers-dheliopolis-1/)
 * [Comixtrip](http://www.comixtrip.fr/bibliotheque/morgane/)
-* [France Inter](http://www.franceinter.fr/depeche-la-catharsis-de-luz-contre-la-folie)
+* [France Inter](https://www.franceinter.fr/livres/cinq-bd-a-lire-en-janvier)
 * [FranceTVInfo](http://blog.francetvinfo.fr/popup/2015/10/09/decouvrez-les-premieres-planches-du-tome-5-de-saga-le-space-opera-le-plus-cingle-de-la-bd.html)
 * [IGN France](http://fr.ign.com/comics-mangas/24831/feature/museum-un-thriller-aussi-classique-quefficace-critique-manga)
 * [Mademoizelle](http://www.madmoizelle.com/california-dreamin-penelope-bagieu-concours-419315)
 * [MangaMag](http://www.mangamag.fr/chroniques/chroniques-manga/seven-deadly-sins-tome-10/)
 * [Momie](http://www.momie.fr/pr114955/les-beaux-etes-tome-1-cap-au-sud)
 * [Le Parisien](http://bd.blog.leparisien.fr/archive/2016/01/10/l-emballante-chevauchee-romaine-de-gloria-victis-16338.html)
-* [RTBF](http://www.rtbf.be/culture/bande-dessinee/detail_desseins?id=9114129)
+* [RTBF](https://www.rtbf.be/culture/bande-dessinee/detail_l-homme-qui-tua-lucky-luke?id=9267031)
 * [Un Amour de BD](http://www.unamourdebd.fr/2015/12/la-poudre-descampette-recit-complet/)
+* [Zoo le mag](http://www.zoolemag.com/2015/07/preview-zoo-57-waterloo-le-chant-du-d%C3%A9part-de-falba-regnault-et-tulard-gl%C3%A9nat.html)
 
 ## Historique
 
