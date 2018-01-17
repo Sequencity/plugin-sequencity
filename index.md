@@ -127,7 +127,7 @@ sequencity.checkBookAvailability(identifier, function(exists) {
 * [ActuaBD](http://www.actuabd.com/Jamais-Par-Bruno-Duhamel-Editions-Bamboo)
 * [Actualitté](https://www.actualitte.com/article/bande-dessinee/a-boire-et-a-manger-du-pain-sur-la-planche-tome-3-guillaume-long/61741)
 * [À voir à lire](http://www.avoir-alire.com/bagdad-inc-la-chronique-bd)
-* [Bade dessinée info](https://www.bandedessinee.info/Rose-Rose-1-3-1-bd)
+* [Bande dessinée info](https://www.bandedessinee.info/Rose-Rose-1-3-1-bd)
 * [BDencre](http://www.bdencre.com/2015/11/18230_detectives-t4-hanna-labourot-lou-delcourt-1495e/)
 * [Bodoi](http://www.bodoi.info/les-chevaliers-dheliopolis-1/)
 * [Comixtrip](http://www.comixtrip.fr/bibliotheque/morgane/)
