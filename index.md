@@ -136,7 +136,6 @@ sequencity.checkBookAvailability(identifier, function(exists) {
 * [IGN France](http://fr.ign.com/comics-mangas/24831/feature/museum-un-thriller-aussi-classique-quefficace-critique-manga)
 * [Mademoizelle](http://www.madmoizelle.com/california-dreamin-penelope-bagieu-concours-419315)
 * [MangaMag](http://www.mangamag.fr/chroniques/chroniques-manga/seven-deadly-sins-tome-10/)
-* [Momie](http://www.momie.fr/pr114955/les-beaux-etes-tome-1-cap-au-sud)
 * [Le Parisien](http://bd.blog.leparisien.fr/archive/2016/01/10/l-emballante-chevauchee-romaine-de-gloria-victis-16338.html)
 * [RTBF](https://www.rtbf.be/culture/bande-dessinee/detail_l-homme-qui-tua-lucky-luke?id=9267031)
 * [Un Amour de BD](http://www.unamourdebd.fr/2015/12/la-poudre-descampette-recit-complet/)
